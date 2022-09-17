@@ -13,3 +13,7 @@
 
 - [How To Install NVM on macOS with Homebrew](https://tecadmin.net/install-nvm-macos-with-homebrew/)
 - [How to Install NVM on Mac with Brew](https://fedingo.com/how-to-install-nvm-on-mac-with-brew/)
+
+### ZSH Setup
+
+- [How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
